@@ -3,4 +3,4 @@ description: Personal Portfolio
 baseurl: ""
 url: ""
 markdown: kramdown
-theme: minima
+
