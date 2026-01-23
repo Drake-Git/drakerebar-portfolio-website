@@ -8,4 +8,4 @@ title: Drake Rebar
 
 **Site Launching Soon**
 
-I'm currently building my professional portfolio on Azure. Please check back soon for my resume, certifications, and project deep-dives.
+I am currently building my professional portfolio on Azure. Please check back soon for my resume, certifications, and project deep-dives.
