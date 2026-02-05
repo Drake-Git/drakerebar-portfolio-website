@@ -1,1 +1,5 @@
-## a place to include files not to be included in the repository
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

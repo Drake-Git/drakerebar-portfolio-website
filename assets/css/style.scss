@@ -1,0 +1,38 @@
+
+@import "minima";
+
+// YOUR CUSTOMIZATIONS GO BELOW THIS LINE
+$base-font-size:   18px; // Increases readability for recruiters
+$base-font-weight: 400;
+$header-font-weight: 700;
+$base-font-family: "Georgia", serif;
+
+h1, h2, h3 {
+  color: #111; // Makes headers pop more against the page
+  margin-top: 1.5em;
+}
+
+h2 {
+  border-bottom: 1px solid #eee; // Professional "section" line for Resume
+  padding-bottom: 5px;
+}
+
+h3 {
+  margin-top: 1em;
+  font-style: italic; // Italicizes sub-headers for emphasis
+}
+
+.border-box {
+  display: block;          /* Forces it to be its own line */
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  padding: 15px 0;         /* Space INSIDE the lines */
+  margin: 30px 0;          /* Space OUTSIDE the box (prevents joining) */
+  text-align: center;
+  font-weight: bold;
+  clear: both;             /* Prevents other elements from floating next to it */
+}
+
+.center-text {
+  text-align: center;
+}
