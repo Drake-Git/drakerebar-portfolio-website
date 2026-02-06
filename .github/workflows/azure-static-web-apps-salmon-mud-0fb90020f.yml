@@ -41,7 +41,7 @@ jobs:
         run: |
           bundle install
           bundle exec jekyll build
-      - - name: Build And Deploy
+      - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
         with:
