@@ -35,7 +35,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Higher versions work better now
+          ruby-version: '3.4' # Higher versions work better now
           bundler-cache: true
       - name: Build Jekyll Site
         run: |
