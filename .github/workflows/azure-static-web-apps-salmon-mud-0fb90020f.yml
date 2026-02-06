@@ -52,6 +52,7 @@ jobs:
            app_location: "_site" # This tells it to look where Jekyll finished building
            api_location: ""
            output_location: ""
+           data_api_location: ""
            skip_app_build: true # This tells Azure: "I already built it, just upload it"
         env:
            SKIP_ORYX_BUILD: "true" # The "Power" flag to stop the exit code 16 error
