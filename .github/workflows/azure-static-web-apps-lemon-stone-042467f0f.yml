@@ -41,7 +41,7 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_LEMON_STONE_042467F0F }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "/" 
+          app_location: "_site" 
           api_location: "" 
           output_location: "_site" 
           data_api_location: "swa-db-connections" 
