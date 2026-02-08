@@ -65,8 +65,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-    
+
 header_pages:
   - index.markdown
   - Resume.md
-  - projects.markdown
+  - Projects.markdown
