@@ -43,11 +43,11 @@ jobs:
           app_location: "_site" 
           api_location: "" 
           output_location: "" 
-          data_api_location: "" 
+          data_api_location: "swa-db-connections" 
           skip_app_build: true 
         env:
           SKIP_ORYX_BUILD: "true"
-          data_api_location: ""
+          data_api_location: "swa-db-connections"
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
