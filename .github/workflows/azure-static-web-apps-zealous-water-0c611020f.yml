@@ -39,7 +39,7 @@ jobs:
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "_site" # App source code path
           output_location: "_site" # Built app content directory - optional
-          data_api_location: "swa-db-connections" # Azure Functions source code path - optional
+          data_api_location: "" # Azure Functions source code path - optional
           skip_app_build: true # Set to true to skip app building. Oryx will only be used to copy files. Default is false. Optional.
         env:
           skip_oryx_build: true
