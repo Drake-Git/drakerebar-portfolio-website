@@ -45,7 +45,7 @@ jobs:
           api_location: "" 
           output_location: "_site" 
           data_api_location: "swa-db-connections" 
-          skip_app_build: true 
+          #skip_app_build: true 
         #env:
           #SKIP_ORYX_BUILD: "false"
           #data_api_location: "swa-db-connections"
