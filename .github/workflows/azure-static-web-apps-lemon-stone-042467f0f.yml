@@ -46,9 +46,9 @@ jobs:
           output_location: "_site" 
           data_api_location: "swa-db-connections" 
           skip_app_build: true 
-        env:
-          SKIP_ORYX_BUILD: "false"
-          data_api_location: "swa-db-connections"
+        #env:
+          #SKIP_ORYX_BUILD: "false"
+          #data_api_location: "swa-db-connections"
 
   #close_pull_request_job:
     # if: github.event_name == 'pull_request' && github.event.action == 'closed'
