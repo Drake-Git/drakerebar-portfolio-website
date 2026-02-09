@@ -20,6 +20,16 @@ Veteran Emergency Services Leader and transitioning Azure Cloud Security Enginee
 
 ___
 
+## Certifications 
+
+### Google Cybersecurity Professional Certificate
+#### *Google via Coursera* | 2026 
+
+>* **Technical Skills:** Linux, SQL, Python, SIEM (Splunk, Chronicle), IDS/IPS (Suricata). 
+>* **Frameworks:** NIST Cybersecurity Framework (CSF), NIST SP 800-53, and Risk Management. 
+>* **Hands-on Labs:** Completed 100+ hours of security audits, incident response simulations, and vulnerability assessments.
+
+
 
 ## Technical Skills
 
@@ -31,7 +41,7 @@ ___
 
 - **Compliance & Governance:** Documentation (PCR/Quality Assurance), SOP development, Risk Assessment, Incident Command Systems (ICS)
 
-  
+
 
 ## Technical Projects
 
@@ -53,7 +63,7 @@ ___
 
 >Developed clinical guidelines and QA/QI monitoring systems to analyze treatment efficacy and data accuracy.
 
-  
+
 
 ## Work History  
 
